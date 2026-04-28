@@ -1,0 +1,5 @@
+import { ProtectedShell } from "@/components/protected-shell";
+
+export default function AdminLayout({ children }: { children: React.ReactNode }) {
+  return <ProtectedShell role="platform_admin">{children}</ProtectedShell>;
+}

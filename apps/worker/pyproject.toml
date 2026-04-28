@@ -1,0 +1,23 @@
+[project]
+name = "cbse-ai-worker"
+version = "0.1.0"
+description = "Worker service scaffold for the CBSE PCMB AI platform"
+requires-python = ">=3.11"
+dependencies = [
+  "dramatiq>=1.18.0",
+  "pydantic-settings>=2.9.1",
+  "redis>=6.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.5",
+  "ruff>=0.11.4"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
