@@ -3,6 +3,8 @@ node_modules/
 .next/
 dist/
 build/
+*.tsbuildinfo
+.pnpm-store/
 
 # Python
 __pycache__/
@@ -10,6 +12,7 @@ __pycache__/
 .ruff_cache/
 .mypy_cache/
 .venv/
+.uv-cache/
 *.pyc
 
 # Local env
