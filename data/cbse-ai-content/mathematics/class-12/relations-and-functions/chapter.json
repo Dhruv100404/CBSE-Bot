@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "board": "cbse",
+  "source": "ncert",
+  "subjectSlug": "mathematics",
+  "subjectName": "Mathematics",
+  "classLevel": 12,
+  "chapterSlug": "relations-and-functions",
+  "chapterTitle": "Relations and Functions",
+  "namespace": "cbse-ai-content/mathematics/class-12/relations-and-functions",
+  "counts": {
+    "formula": 157,
+    "general_content": 4,
+    "definition": 9,
+    "example": 26,
+    "exercise_question": 28,
+    "exercise_answer": 20
+  },
+  "files": {
+    "objects": "objects.json",
+    "content": "content.json",
+    "definitions": "definitions.json",
+    "examples": "examples.json",
+    "exercises": "exercises.json",
+    "formulas": "formulas.json"
+  }
+}

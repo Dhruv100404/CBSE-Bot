@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "namespace": "cbse-ai-content",
+  "subjects": [
+    {
+      "id": "mathematics-12",
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "classLevel": 12,
+      "chapters": [
+        {
+          "slug": "relations-and-functions",
+          "title": "Relations and Functions",
+          "path": "mathematics/class-12/relations-and-functions",
+          "counts": {
+            "formula": 157,
+            "general_content": 4,
+            "definition": 9,
+            "example": 26,
+            "exercise_question": 28,
+            "exercise_answer": 20
+          }
+        }
+      ]
+    }
+  ]
+}

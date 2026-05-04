@@ -28,3 +28,9 @@ Thumbs.db
 postgres_data/
 redis_data/
 minio_data/
+
+# Local OCR / RAG data
+data/raw/*
+!data/raw/.gitkeep
+data/ocr-output/*
+!data/ocr-output/.gitkeep

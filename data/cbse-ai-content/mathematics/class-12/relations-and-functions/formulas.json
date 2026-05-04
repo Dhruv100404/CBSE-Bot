@@ -1,0 +1,6125 @@
+[
+  {
+    "id": "70c7879c-c310-5143-a8ff-b5c4b2f9e7e8",
+    "type": "formula",
+    "key": "formula:4bdd55f647dc",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(i) {(a, b) in A x B: a is brother of b},",
+    "normalizedText": "(i) {(a, b) in a x b: a is brother of b},",
+    "pageStart": 1,
+    "pageEnd": 1,
+    "sequenceIndex": 1,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 1,
+      "pageEnd": 1,
+      "span": {
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "4bdd55f647dc",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "76d81085-f708-52e7-b3b2-d024d2cf38d8",
+    "type": "formula",
+    "key": "formula:1405a3c3653e",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(ii) {(a, b) in A x B:",
+    "normalizedText": "(ii) {(a, b) in a x b:",
+    "pageStart": 1,
+    "pageEnd": 1,
+    "sequenceIndex": 2,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 1,
+      "pageEnd": 1,
+      "span": {
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1405a3c3653e",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "04099b8c-ef26-53ed-b00e-b884a74814de",
+    "type": "formula",
+    "key": "formula:5de595973933",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(iii) {(a, b) in A x B: age of a is greater than age of b},",
+    "normalizedText": "(iii) {(a, b) in a x b: age of a is greater than age of b},",
+    "pageStart": 1,
+    "pageEnd": 1,
+    "sequenceIndex": 3,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 1,
+      "pageEnd": 1,
+      "span": {
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "5de595973933",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "631c97fb-f139-554e-9dcd-096383295e72",
+    "type": "formula",
+    "key": "formula:b38245a4813c",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(iv) {(a, b) in A x B: total marks obtained by a in the final examination is less than",
+    "normalizedText": "(iv) {(a, b) in a x b: total marks obtained by a in the final examination is less than",
+    "pageStart": 1,
+    "pageEnd": 1,
+    "sequenceIndex": 4,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 1,
+      "pageEnd": 1,
+      "span": {
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "b38245a4813c",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "8295210c-6f2a-5a0b-b2cc-1c862bc944b6",
+    "type": "formula",
+    "key": "formula:b6add12133a9",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(v) {(a, b) in A x B: a lives in the same locality as b}. However, abstracting from",
+    "normalizedText": "(v) {(a, b) in a x b: a lives in the same locality as b}. however, abstracting from",
+    "pageStart": 1,
+    "pageEnd": 1,
+    "sequenceIndex": 5,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 1,
+      "pageEnd": 1,
+      "span": {
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "b6add12133a9",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "01168e74-cbf7-5108-ba2d-e79cd616a970",
+    "type": "formula",
+    "key": "formula:7833bc432518",
+    "title": "Formula / symbolic statement",
+    "bodyText": "relation in a set A is a subset of A x A. Thus, the empty set phi and A x A are two",
+    "normalizedText": "relation in a set a is a subset of a x a. thus, the empty set phi and a x a are two",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 6,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7833bc432518",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "6cc9b908-b6db-5612-bb43-cdaa986e3a31",
+    "type": "formula",
+    "key": "formula:755be1131c1a",
+    "title": "Formula / symbolic statement",
+    "bodyText": "extreme relations. For illustration, consider a relation R in the set A = {1, 2, 3, 4} given by",
+    "normalizedText": "extreme relations. for illustration, consider a relation r in the set a = {1, 2, 3, 4} given by",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 7,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "755be1131c1a",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "a4f2df03-2786-53b9-bedd-9ad35eba480d",
+    "type": "formula",
+    "key": "formula:4ca2529912ba",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(a, b): a -",
+    "normalizedText": "r = {(a, b): a -",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 8,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "4ca2529912ba",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "bad383b4-2954-53d9-8ab4-d6c50f54672e",
+    "type": "formula",
+    "key": "formula:9e6e302ac432",
+    "title": "Formula / symbolic statement",
+    "bodyText": "b = 10}. This is the empty set, as no pair (a, b) satisfies the condition",
+    "normalizedText": "b = 10}. this is the empty set, as no pair (a, b) satisfies the condition",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 9,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "9e6e302ac432",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "b1fc998e-9c80-55c3-a6f3-f3170843cf82",
+    "type": "formula",
+    "key": "formula:6a8bf8eb7657",
+    "title": "Formula / symbolic statement",
+    "bodyText": "a - b = 10. Similarly, R' = {(a, b) : | a - b | >= 0} is the whole set A x A, as all pairs",
+    "normalizedText": "a - b = 10. similarly, r' = {(a, b) : | a - b | >= 0} is the whole set a x a, as all pairs",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 10,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6a8bf8eb7657",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "a69d7cf0-b62a-5266-8c15-338260f78384",
+    "type": "formula",
+    "key": "formula:60f7853b1e4c",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(a, b) in A x A satisfy | a - b | >= 0. These two extreme examples lead us to the",
+    "normalizedText": "(a, b) in a x a satisfy | a - b | >= 0. these two extreme examples lead us to the",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 11,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "60f7853b1e4c",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "43bd361f-f7f6-5799-b151-895578768ca0",
+    "type": "formula",
+    "key": "formula:fc39d62241fc",
+    "title": "Formula / symbolic statement",
+    "bodyText": "related to any element of A, i.e., R = phi subset A x A.",
+    "normalizedText": "related to any element of a, i.e., r = phi subset a x a.",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 12,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "fc39d62241fc",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "9ffb3406-3ca1-568d-90ce-22917fcd4001",
+    "type": "formula",
+    "key": "formula:efc428b9d2dd",
+    "title": "Formula / symbolic statement",
+    "bodyText": "is related to every element of A, i.e., R = A x A.",
+    "normalizedText": "is related to every element of a, i.e., r = a x a.",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 13,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "efc428b9d2dd",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "1e535a95-8842-58a7-98d3-bd3732ccef89",
+    "type": "formula",
+    "key": "formula:7ddbaeefb0a9",
+    "title": "Formula / symbolic statement",
+    "bodyText": "in A given by R = {(a, b) : a is sister of b} is the empty relation and R' = {(a, b) : the",
+    "normalizedText": "in a given by r = {(a, b) : a is sister of b} is the empty relation and r' = {(a, b) : the",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 14,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7ddbaeefb0a9",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "d42e9df2-a327-544f-a3e2-c0053011f48c",
+    "type": "formula",
+    "key": "formula:394d186ebcd1",
+    "title": "Formula / symbolic statement",
+    "bodyText": "student of the school. Hence, R = phi, showing that R is the empty relation. It is also",
+    "normalizedText": "student of the school. hence, r = phi, showing that r is the empty relation. it is also",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 15,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "394d186ebcd1",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "a7807928-6c62-53a2-ad03-baa976e065f5",
+    "type": "formula",
+    "key": "formula:3e004d5ac345",
+    "title": "Formula / symbolic statement",
+    "bodyText": "less than 3 meters. This shows that R' = A x A is the universal relation.",
+    "normalizedText": "less than 3 meters. this shows that r' = a x a is the universal relation.",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 16,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "3e004d5ac345",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "79f62b2e-f6ac-5d30-8785-b55418feff6e",
+    "type": "formula",
+    "key": "formula:4a51ebc74af4",
+    "title": "Formula / symbolic statement",
+    "bodyText": "method and set builder method. However, a relation R in the set {1, 2, 3, 4} defined by R",
+    "normalizedText": "method and set builder method. however, a relation r in the set {1, 2, 3, 4} defined by r",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 17,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "4a51ebc74af4",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "fc848c4f-c9f7-53b2-b31e-7fd9c1e1567c",
+    "type": "formula",
+    "key": "formula:2fe47867c27b",
+    "title": "Formula / symbolic statement",
+    "bodyText": "= {( a, b) : b = a + 1} is also expressed as a R b if and only if",
+    "normalizedText": "= {( a, b) : b = a + 1} is also expressed as a r b if and only if",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 18,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "2fe47867c27b",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "1464d717-46ae-593a-b85e-4c03f65cc49c",
+    "type": "formula",
+    "key": "formula:fe13b20670ae",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(i) reflexive, if (a, a) in R, for every a in A,",
+    "normalizedText": "(i) reflexive, if (a, a) in r, for every a in a,",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 19,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "fe13b20670ae",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "51f48d52-4a58-562b-a909-a404a80b13fd",
+    "type": "formula",
+    "key": "formula:37261e45080d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(ii) symmetric, if (a1, a2) in R implies that (a2, a1) in R, for all a1, a2 in A.",
+    "normalizedText": "(ii) symmetric, if (a1, a2) in r implies that (a2, a1) in r, for all a1, a2 in a.",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 20,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "37261e45080d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f8930d4f-e880-5f6c-9c0e-0f8490ba17ed",
+    "type": "formula",
+    "key": "formula:20bf220ba88a",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(iii) transitive, if (a1, a2) in R and (a2, a3) in R implies that (a1, a3) in R, for all a1, a2,",
+    "normalizedText": "(iii) transitive, if (a1, a2) in r and (a2, a3) in r implies that (a1, a3) in r, for all a1, a2,",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 21,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "20bf220ba88a",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "fcd1d3a6-394e-55b6-8249-d440e2bb4509",
+    "type": "formula",
+    "key": "formula:34bb6032d97d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(T1, T2) : T1 is congruent to T2}. Show that R is an equivalence relation.",
+    "normalizedText": "r = {(t1, t2) : t1 is congruent to t2}. show that r is an equivalence relation.",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 22,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "34bb6032d97d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "aa604213-212e-5496-ac23-e81ec8b6fef5",
+    "type": "formula",
+    "key": "formula:da0a7d643f61",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(T1, T2) in R => T1 is congruent to T2 => T2 is congruent to T1 => (T2, T1) in R. Hence,",
+    "normalizedText": "(t1, t2) in r => t1 is congruent to t2 => t2 is congruent to t1 => (t2, t1) in r. hence,",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 23,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "da0a7d643f61",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "60a849cf-c419-573c-af34-7022c3de0a04",
+    "type": "formula",
+    "key": "formula:6c4bca1cb6de",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R is symmetric. Moreover, (T1, T2), (T2, T3) in R =>",
+    "normalizedText": "r is symmetric. moreover, (t1, t2), (t2, t3) in r =>",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 24,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6c4bca1cb6de",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "10041f1f-115e-562a-84b3-f24a1b2b4a20",
+    "type": "formula",
+    "key": "formula:6d23ceb8650f",
+    "title": "Formula / symbolic statement",
+    "bodyText": "congruent to T3 => T1 is congruent to T3 => (T1, T3) in R. Therefore, R is an equivalence",
+    "normalizedText": "congruent to t3 => t1 is congruent to t3 => (t1, t3) in r. therefore, r is an equivalence",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 25,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6d23ceb8650f",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "cebf32d4-f4fd-5cb5-a6e2-736d96dc8ab4",
+    "type": "formula",
+    "key": "formula:6e1e3dd9fd76",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(L 1, L 2) : L 1 is perpendicular to L 2}. Show that R is symmetric but neither",
+    "normalizedText": "r = {(l 1, l 2) : l 1 is perpendicular to l 2}. show that r is symmetric but neither",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 26,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6e1e3dd9fd76",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "9c3cc12e-ff59-52ce-80e1-eff1bfd1e988",
+    "type": "formula",
+    "key": "formula:efd16a76d4ab",
+    "title": "Formula / symbolic statement",
+    "bodyText": "not in R. R is symmetric as (L 1, L2) in R",
+    "normalizedText": "not in r. r is symmetric as (l 1, l2) in r",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 27,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "efd16a76d4ab",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "32726365-49de-5377-8466-ed41bc7c3641",
+    "type": "formula",
+    "key": "formula:b3aededa8cf0",
+    "title": "Formula / symbolic statement",
+    "bodyText": "=> (L2, L 1) in R.",
+    "normalizedText": "=> (l2, l 1) in r.",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 28,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "b3aededa8cf0",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "75518d9f-0f25-5f8b-b1ce-d63f328b88b0",
+    "type": "formula",
+    "key": "formula:7b6219d48578",
+    "title": "Formula / symbolic statement",
+    "bodyText": "L3. In fact, L 1 is parallel to L 3, i.e., (L1, L2) in R, (L2, L3) in R but (L 1, L3) not in R.",
+    "normalizedText": "l3. in fact, l 1 is parallel to l 3, i.e., (l1, l2) in r, (l2, l3) in r but (l 1, l3) not in r.",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 29,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7b6219d48578",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "caeee075-6da0-515f-8b49-2b2a02a85bf9",
+    "type": "formula",
+    "key": "formula:0a12fdaa429d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "as (1, 2) in R but (2, 1) not in R. Similarly, R is not transitive, as (1, 2) in R and (2, 3) in R",
+    "normalizedText": "as (1, 2) in r but (2, 1) not in r. similarly, r is not transitive, as (1, 2) in r and (2, 3) in r",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 30,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "0a12fdaa429d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "dd5de990-90eb-5880-a7e8-0a1b4756abfe",
+    "type": "formula",
+    "key": "formula:09c58c2dd4e6",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(a, b) : 2 divides a - b}",
+    "normalizedText": "r = {(a, b) : 2 divides a - b}",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 31,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "09c58c2dd4e6",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "4dd5ce5d-6d17-55c0-8876-d23ff35e5188",
+    "type": "formula",
+    "key": "formula:2fcf04bfe8e2",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution R is reflexive, as 2 divides (a - a) for all a in Z. Further, if (a, b) in R, then",
+    "normalizedText": "solution r is reflexive, as 2 divides (a - a) for all a in z. further, if (a, b) in r, then",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 32,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "2fcf04bfe8e2",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "10fcaaa9-64e5-5e69-b038-80203bd142d8",
+    "type": "formula",
+    "key": "formula:eda0b0f80edc",
+    "title": "Formula / symbolic statement",
+    "bodyText": "symmetric. Similarly, if (a, b) in R and (b, c) in R, then a - b and b - c are divisible by",
+    "normalizedText": "symmetric. similarly, if (a, b) in r and (b, c) in r, then a - b and b - c are divisible by",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 33,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "eda0b0f80edc",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "e310dad0-da77-5e6c-b3ca-2509dc3fe0cd",
+    "type": "formula",
+    "key": "formula:587ab0dfe011",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(iii) E and O are disjoint and Z = E union O.",
+    "normalizedText": "(iii) e and o are disjoint and z = e union o.",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 34,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "587ab0dfe011",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "6543d403-dc1c-57e2-877f-91d3c787c1dd",
+    "type": "formula",
+    "key": "formula:20d8e4152ff6",
+    "title": "Formula / symbolic statement",
+    "bodyText": "[0] ≠ [1], [0] = [2r] and [1] = [2r + 1], r in Z. Infact, what we have seen above is true",
+    "normalizedText": "[0] ≠ [1], [0] = [2r] and [1] = [2r + 1], r in z. infact, what we have seen above is true",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 35,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "20d8e4152ff6",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "d5e1cb6f-6208-568d-aa76-865637aa3f8a",
+    "type": "formula",
+    "key": "formula:b71cb8205428",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(iii) union Aj = X and Ai intersection Aj = phi, i ≠ j.",
+    "normalizedText": "(iii) union aj = x and ai intersection aj = phi, i ≠ j.",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 36,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "b71cb8205428",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "895843ef-66e2-564e-a999-11ff5046366b",
+    "type": "formula",
+    "key": "formula:8fcefd9e0b6a",
+    "title": "Formula / symbolic statement",
+    "bodyText": "A1 = {x in Z : x is a multiple of 3} = {..., - 6, - 3, 0, 3, 6, ...}",
+    "normalizedText": "a1 = {x in z : x is a multiple of 3} = {..., - 6, - 3, 0, 3, 6, ...}",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 37,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "8fcefd9e0b6a",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "c4ddc722-8f14-5d4f-8445-ba2649457b58",
+    "type": "formula",
+    "key": "formula:1d40a1676afa",
+    "title": "Formula / symbolic statement",
+    "bodyText": "A2 = {x in Z : x - 1 is a multiple of 3} = {..., - 5, - 2, 1, 4, 7, ...}",
+    "normalizedText": "a2 = {x in z : x - 1 is a multiple of 3} = {..., - 5, - 2, 1, 4, 7, ...}",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 38,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1d40a1676afa",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "a243781c-492b-5f0a-9408-ea9016beeddd",
+    "type": "formula",
+    "key": "formula:f5eb90d28d36",
+    "title": "Formula / symbolic statement",
+    "bodyText": "A3 = {x in Z : x - 2 is a multiple of 3} = {..., - 4, - 1, 2, 5, 8, ...}",
+    "normalizedText": "a3 = {x in z : x - 2 is a multiple of 3} = {..., - 4, - 1, 2, 5, 8, ...}",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 39,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "f5eb90d28d36",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "d6abe163-0e16-5fff-9a72-7b9703efc69b",
+    "type": "formula",
+    "key": "formula:a97f894163c9",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Define a relation R in Z given by R = {( a, b) : 3 divides a - b}. Following the",
+    "normalizedText": "define a relation r in z given by r = {( a, b) : 3 divides a - b}. following the",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 40,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "a97f894163c9",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "c58cc922-cb18-5a8d-aee1-d96509c1bc96",
+    "type": "formula",
+    "key": "formula:f79fada9e736",
+    "title": "Formula / symbolic statement",
+    "bodyText": "set of all integers in Z which are related to 2. Thus, A1 = [0], A2 = [1] and A3 = [2].",
+    "normalizedText": "set of all integers in z which are related to 2. thus, a1 = [0], a2 = [1] and a3 = [2].",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 41,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "f79fada9e736",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "b4f62365-ee93-5f94-8839-ff58765e4807",
+    "type": "formula",
+    "key": "formula:e5b053c783a0",
+    "title": "Formula / symbolic statement",
+    "bodyText": "In fact, A1 = [3r], A2 = [3r + 1] and A3 = [3r + 2], for all r in Z.",
+    "normalizedText": "in fact, a1 = [3r], a2 = [3r + 1] and a3 = [3r + 2], for all r in z.",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 42,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "e5b053c783a0",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "08229727-78d7-5ae5-ab52-a5ebff814c58",
+    "type": "formula",
+    "key": "formula:a4c175cb7ebf",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {( a, b) : both a and b are either odd or even}. Show that R is an equivalence",
+    "normalizedText": "r = {( a, b) : both a and b are either odd or even}. show that r is an equivalence",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 43,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "a4c175cb7ebf",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "85128cf5-6522-5aaf-a518-289e8d559fdc",
+    "type": "formula",
+    "key": "formula:df107be64196",
+    "title": "Formula / symbolic statement",
+    "bodyText": "relation. Further, show that all the elements of the subset {1, 3, 5, 7} are related to each",
+    "normalizedText": "relation. further, show that all the elements of the subset {1, 3, 5, 7} are related to each",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 44,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "df107be64196",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "7c4b96e7-c4b1-5d25-b428-c9ab04064a6f",
+    "type": "formula",
+    "key": "formula:e35f6a7841e5",
+    "title": "Formula / symbolic statement",
+    "bodyText": "other and all the elements of the subset {2, 4, 6} are related to each other , but no",
+    "normalizedText": "other and all the elements of the subset {2, 4, 6} are related to each other , but no",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 45,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "e35f6a7841e5",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "630e08e1-d9d8-5d09-88d9-b5e317464d55",
+    "type": "formula",
+    "key": "formula:1d94d4561272",
+    "title": "Formula / symbolic statement",
+    "bodyText": "element of the subset {1, 3, 5, 7} is related to any element of the subset {2, 4, 6}.",
+    "normalizedText": "element of the subset {1, 3, 5, 7} is related to any element of the subset {2, 4, 6}.",
+    "pageStart": 4,
+    "pageEnd": 4,
+    "sequenceIndex": 46,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 4,
+      "pageEnd": 4,
+      "span": {
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1d94d4561272",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "50c6c51d-b130-5c95-93e3-433f14f9fccc",
+    "type": "formula",
+    "key": "formula:90bddabc0632",
+    "title": "Formula / symbolic statement",
+    "bodyText": "that (a, a) in R. Further , ( a, b) in R => both a and b must be either o dd or even",
+    "normalizedText": "that (a, a) in r. further , ( a, b) in r => both a and b must be either o dd or even",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 47,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "90bddabc0632",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "de408734-3483-5933-8f8b-eefab624df0a",
+    "type": "formula",
+    "key": "formula:d6db13436e2b",
+    "title": "Formula / symbolic statement",
+    "bodyText": "=> (b, a) in R. Similarly, (a, b) in R and (b, c) in R => all elements a, b, c, must be",
+    "normalizedText": "=> (b, a) in r. similarly, (a, b) in r and (b, c) in r => all elements a, b, c, must be",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 48,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "d6db13436e2b",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "c01d6713-4e33-5d46-b3ad-8902b9138117",
+    "type": "formula",
+    "key": "formula:8ed79d5b58f9",
+    "title": "Formula / symbolic statement",
+    "bodyText": "either even or odd simultaneously => (a, c) in R. Hence, R is an equivalence relation.",
+    "normalizedText": "either even or odd simultaneously => (a, c) in r. hence, r is an equivalence relation.",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 49,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "8ed79d5b58f9",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "2a85bbee-5734-5b6b-8441-c34420194716",
+    "type": "formula",
+    "key": "formula:c120be6e862a",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Further, all the elements of {1, 3, 5, 7} are related to each other , as all the elements",
+    "normalizedText": "further, all the elements of {1, 3, 5, 7} are related to each other , as all the elements",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 50,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "c120be6e862a",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "158e4ac6-b07d-53ef-b881-750215fd4ee0",
+    "type": "formula",
+    "key": "formula:7c305eee3358",
+    "title": "Formula / symbolic statement",
+    "bodyText": "of this subset are odd. Similarly, all the elements of the subset {2, 4, 6} are related to",
+    "normalizedText": "of this subset are odd. similarly, all the elements of the subset {2, 4, 6} are related to",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 51,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7c305eee3358",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "3a7f7a96-be46-54fd-91ba-91cd6ab9eb8b",
+    "type": "formula",
+    "key": "formula:3b715c505b75",
+    "title": "Formula / symbolic statement",
+    "bodyText": "each other, as all of them are even. Also, no element of the subset {1, 3, 5, 7} can be",
+    "normalizedText": "each other, as all of them are even. also, no element of the subset {1, 3, 5, 7} can be",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 52,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "3b715c505b75",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "97a1669e-43b7-5bd3-a0bd-13ea30bdbfa9",
+    "type": "formula",
+    "key": "formula:74bd040e67d2",
+    "title": "Formula / symbolic statement",
+    "bodyText": "related to any element of {2, 4, 6}, as elements of {1, 3, 5, 7} are odd, while elements",
+    "normalizedText": "related to any element of {2, 4, 6}, as elements of {1, 3, 5, 7} are odd, while elements",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 53,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "74bd040e67d2",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "3ce5af53-c5ab-58e8-801b-04b34919b70c",
+    "type": "formula",
+    "key": "formula:9810fef98879",
+    "title": "Formula / symbolic statement",
+    "bodyText": "of {2, 4, 6} are even.",
+    "normalizedText": "of {2, 4, 6} are even.",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 54,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "9810fef98879",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "291f7231-1fb2-510b-82b1-1270985a495f",
+    "type": "formula",
+    "key": "formula:b0ef13b5d147",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(i) Relation R in the set A = {1, 2, 3, ..., 13, 14} defined as",
+    "normalizedText": "(i) relation r in the set a = {1, 2, 3, ..., 13, 14} defined as",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 55,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "b0ef13b5d147",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "310e5b2f-7b2d-573d-9a9c-1c8ea4e65581",
+    "type": "formula",
+    "key": "formula:75239046d1c2",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(x, y) : 3x - y = 0}",
+    "normalizedText": "r = {(x, y) : 3x - y = 0}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 56,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "75239046d1c2",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "e15598e6-9c0a-51f7-9b19-f27419b8528e",
+    "type": "formula",
+    "key": "formula:92c073c74cc8",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(x, y) : y = x + 5 and x < 4}",
+    "normalizedText": "r = {(x, y) : y = x + 5 and x < 4}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 57,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "92c073c74cc8",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "717faa23-d26c-5320-8115-5988fc17e8d2",
+    "type": "formula",
+    "key": "formula:8ef738619adc",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(iii) Relation R in the set A = {1, 2, 3, 4, 5, 6} as",
+    "normalizedText": "(iii) relation r in the set a = {1, 2, 3, 4, 5, 6} as",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 58,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "8ef738619adc",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "8e73976c-f837-548c-b0af-b22a6f1e8ceb",
+    "type": "formula",
+    "key": "formula:9d060729f6c3",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(x, y) :",
+    "normalizedText": "r = {(x, y) :",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 59,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "9d060729f6c3",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "6a896bf2-50ea-55eb-9b08-a797b8c55f9c",
+    "type": "formula",
+    "key": "formula:7342c8c0c3c2",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(x, y) : x - y is an integer}",
+    "normalizedText": "r = {(x, y) : x - y is an integer}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 60,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7342c8c0c3c2",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "ecd40c80-a30e-5890-bdd8-fbdbbbef3036",
+    "type": "formula",
+    "key": "formula:8c53c1776f2c",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(a) R = {(x , y) : x and y work at the same place}",
+    "normalizedText": "(a) r = {(x , y) : x and y work at the same place}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 61,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "8c53c1776f2c",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "c361ecfe-b74c-5036-a46a-7d3e472f0b60",
+    "type": "formula",
+    "key": "formula:c0b3f7affbd9",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(b) R = {(x, y) : x and y live in the same locality}",
+    "normalizedText": "(b) r = {(x, y) : x and y live in the same locality}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 62,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "c0b3f7affbd9",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "caf6a4e8-13e4-5027-b213-b1b4dbbb4682",
+    "type": "formula",
+    "key": "formula:00439d409319",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(c) R = {(x, y) : x is exactly 7 cm taller than y}",
+    "normalizedText": "(c) r = {(x, y) : x is exactly 7 cm taller than y}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 63,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "00439d409319",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "aada552d-5d2b-5b08-bf20-bf5b4cd720cb",
+    "type": "formula",
+    "key": "formula:46873ed745c2",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(d) R = {(x, y) : x is wife of y}",
+    "normalizedText": "(d) r = {(x, y) : x is wife of y}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 64,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "46873ed745c2",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f1695232-85e8-5781-bb3e-44509f406175",
+    "type": "formula",
+    "key": "formula:c33a7b2565c9",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(e) R = {(x, y) : x is father of y}",
+    "normalizedText": "(e) r = {(x, y) : x is father of y}",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 65,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "c33a7b2565c9",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "77887dbd-d2ff-5848-ac4e-a1d860a32dc9",
+    "type": "formula",
+    "key": "formula:7a5dc8d062c3",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(a, b) : a <= b2} is neither reflexive nor symmetric nor transitive.",
+    "normalizedText": "r = {(a, b) : a <= b2} is neither reflexive nor symmetric nor transitive.",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 66,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7a5dc8d062c3",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "14a2547e-f3a0-5544-95af-f0af04c40078",
+    "type": "formula",
+    "key": "formula:9b8f5b325f46",
+    "title": "Formula / symbolic statement",
+    "bodyText": "3. Check whether the relation R defined in the set {1, 2, 3, 4, 5, 6} as",
+    "normalizedText": "3. check whether the relation r defined in the set {1, 2, 3, 4, 5, 6} as",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 67,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "9b8f5b325f46",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "2addb2d9-f97d-5a23-8bdd-ff31fb8264d0",
+    "type": "formula",
+    "key": "formula:9bf9edc5ced2",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(a, b) : b = a + 1} is reflexive, symmetric or transitive.",
+    "normalizedText": "r = {(a, b) : b = a + 1} is reflexive, symmetric or transitive.",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 68,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "9bf9edc5ced2",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "2664ef2c-b239-517c-b8b4-713df13b384e",
+    "type": "formula",
+    "key": "formula:18ca672110ab",
+    "title": "Formula / symbolic statement",
+    "bodyText": "4. Show that the relation R in R defined as R = {( a, b) : a <= b}, is reflexive and",
+    "normalizedText": "4. show that the relation r in r defined as r = {( a, b) : a <= b}, is reflexive and",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 69,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "18ca672110ab",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "effc8f18-0772-56f1-b4b7-be62f26948fa",
+    "type": "formula",
+    "key": "formula:4303b055f499",
+    "title": "Formula / symbolic statement",
+    "bodyText": "5. Check whether the relation R in R defined by R = {(a, b) : a <= b3} is reflexive,",
+    "normalizedText": "5. check whether the relation r in r defined by r = {(a, b) : a <= b3} is reflexive,",
+    "pageStart": 5,
+    "pageEnd": 5,
+    "sequenceIndex": 70,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 5,
+      "pageEnd": 5,
+      "span": {
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "4303b055f499",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "2b297dbf-218d-53da-b95e-937bd425a5b6",
+    "type": "formula",
+    "key": "formula:bf50cc5fb54a",
+    "title": "Formula / symbolic statement",
+    "bodyText": "6. Show that the relation R in the set {1, 2, 3} given by R = {(1, 2), (2, 1)} is",
+    "normalizedText": "6. show that the relation r in the set {1, 2, 3} given by r = {(1, 2), (2, 1)} is",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 71,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "bf50cc5fb54a",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "4def8a90-77cc-5c70-9a1a-b0ccf8ef8673",
+    "type": "formula",
+    "key": "formula:5e5eda5c945e",
+    "title": "Formula / symbolic statement",
+    "bodyText": "given by R = {( x, y) : x and",
+    "normalizedText": "given by r = {( x, y) : x and",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 72,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "5e5eda5c945e",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "58c48fc3-521b-5af4-9ad6-ad0b84255c5b",
+    "type": "formula",
+    "key": "formula:2ac72bda8480",
+    "title": "Formula / symbolic statement",
+    "bodyText": "8. Show that the relation R in the set A = {1, 2, 3, 4, 5} given by",
+    "normalizedText": "8. show that the relation r in the set a = {1, 2, 3, 4, 5} given by",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 73,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "2ac72bda8480",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "de6dbad7-540b-5244-87fb-4ddb47b84df0",
+    "type": "formula",
+    "key": "formula:89e86390ebcb",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {( a, b) : | a - b| is even}, is an equivalence relation. Show that all the",
+    "normalizedText": "r = {( a, b) : | a - b| is even}, is an equivalence relation. show that all the",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 74,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "89e86390ebcb",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "5b730ec4-ffa6-5a38-81bb-4a74a089a763",
+    "type": "formula",
+    "key": "formula:c919bb2bc684",
+    "title": "Formula / symbolic statement",
+    "bodyText": "elements of {1, 3, 5} are related to each other and all the elements of {2, 4} are",
+    "normalizedText": "elements of {1, 3, 5} are related to each other and all the elements of {2, 4} are",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 75,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "c919bb2bc684",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "6a78d3b7-9c8b-5516-bd6d-d98790cd70b4",
+    "type": "formula",
+    "key": "formula:fe77bfc61f32",
+    "title": "Formula / symbolic statement",
+    "bodyText": "related to each other. But no element of {1, 3, 5} is related to any element of {2, 4}.",
+    "normalizedText": "related to each other. but no element of {1, 3, 5} is related to any element of {2, 4}.",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 76,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "fe77bfc61f32",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "3feccaa9-92b2-586e-9b50-287ab4bea01d",
+    "type": "formula",
+    "key": "formula:0c6061d7c4ed",
+    "title": "Formula / symbolic statement",
+    "bodyText": "9. Show that each of the relation R in the set A = {x in Z : 0 <= x <= 12}, given by",
+    "normalizedText": "9. show that each of the relation r in the set a = {x in z : 0 <= x <= 12}, given by",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 77,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "0c6061d7c4ed",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "0080c084-0e0d-5056-af5c-dea85659a507",
+    "type": "formula",
+    "key": "formula:ae243673b23d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(i) R = {(a, b) : |a - b| is a multiple of 4}",
+    "normalizedText": "(i) r = {(a, b) : |a - b| is a multiple of 4}",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 78,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "ae243673b23d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "39b159b2-0bad-59f4-a9a5-27a7f1cf7ab9",
+    "type": "formula",
+    "key": "formula:ee9ba25d79f4",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(ii) R = {(a, b) : a = b}",
+    "normalizedText": "(ii) r = {(a, b) : a = b}",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 79,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "ee9ba25d79f4",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "3827fae3-3946-5ab7-96c3-564fcd6db0b1",
+    "type": "formula",
+    "key": "formula:7a54d3ba7000",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(P, Q) : distance of the point P from the origin is same as the distance of the",
+    "normalizedText": "r = {(p, q) : distance of the point p from the origin is same as the distance of the",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 80,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7a54d3ba7000",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "92bc8a06-10f7-5ca0-9207-b7fccd7337d6",
+    "type": "formula",
+    "key": "formula:437266fbc9bb",
+    "title": "Formula / symbolic statement",
+    "bodyText": "12. Show that the relation R defined in the set A of all triangles as R = {(T1, T2) : T1",
+    "normalizedText": "12. show that the relation r defined in the set a of all triangles as r = {(t1, t2) : t1",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 81,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "437266fbc9bb",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "d09e4733-d57b-5e2b-89a7-8b689e26d9b7",
+    "type": "formula",
+    "key": "formula:c3c3bb7f313d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "13. Show that the relation R defined in the set A of all polygons as R = {(P 1, P2) :",
+    "normalizedText": "13. show that the relation r defined in the set a of all polygons as r = {(p 1, p2) :",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 82,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "c3c3bb7f313d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "20717eb4-f9d7-5d65-b515-f20c194fb9aa",
+    "type": "formula",
+    "key": "formula:650a200d5835",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(L1, L2) : L1 is parallel to L2}. Show that R is an equivalence relation. Find",
+    "normalizedText": "r = {(l1, l2) : l1 is parallel to l2}. show that r is an equivalence relation. find",
+    "pageStart": 6,
+    "pageEnd": 6,
+    "sequenceIndex": 83,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 6,
+      "pageEnd": 6,
+      "span": {
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "650a200d5835",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "81a2eb82-10e0-51b0-aa98-84412baa37fe",
+    "type": "formula",
+    "key": "formula:6c0e37bc2b05",
+    "title": "Formula / symbolic statement",
+    "bodyText": "15. Let R be the relation in the set {1, 2, 3, 4} given by R = {(1, 2), (2, 2), (1, 1), (4,4),",
+    "normalizedText": "15. let r be the relation in the set {1, 2, 3, 4} given by r = {(1, 2), (2, 2), (1, 1), (4,4),",
+    "pageStart": 7,
+    "pageEnd": 7,
+    "sequenceIndex": 84,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 7,
+      "pageEnd": 7,
+      "span": {
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6c0e37bc2b05",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "e6c0a480-816c-51fe-a7c8-fe969cd24c8f",
+    "type": "formula",
+    "key": "formula:50546fc93678",
+    "title": "Formula / symbolic statement",
+    "bodyText": "16. Let R be the relation in the set N given by R = {(a, b) : a = b - 2, b > 6}. Choose",
+    "normalizedText": "16. let r be the relation in the set n given by r = {(a, b) : a = b - 2, b > 6}. choose",
+    "pageStart": 7,
+    "pageEnd": 7,
+    "sequenceIndex": 85,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 7,
+      "pageEnd": 7,
+      "span": {
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "50546fc93678",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "05f3c749-7ef3-5662-bfcd-69be3510f22e",
+    "type": "formula",
+    "key": "formula:27d4f05e6c9d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "in R (C) (6, 8) in R (D) (8, 7) in R",
+    "normalizedText": "in r (c) (6, 8) in r (d) (8, 7) in r",
+    "pageStart": 7,
+    "pageEnd": 7,
+    "sequenceIndex": 86,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 7,
+      "pageEnd": 7,
+      "span": {
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "27d4f05e6c9d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "29033893-0931-5122-a7b1-ea090d118798",
+    "type": "formula",
+    "key": "formula:eb2359c4adfa",
+    "title": "Formula / symbolic statement",
+    "bodyText": "of distinct elements of X under f are distinct, i.e., for every x1, x2 in X, f (x1) = f (x2)",
+    "normalizedText": "of distinct elements of x under f are distinct, i.e., for every x1, x2 in x, f (x1) = f (x2)",
+    "pageStart": 7,
+    "pageEnd": 7,
+    "sequenceIndex": 87,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 7,
+      "pageEnd": 7,
+      "span": {
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "eb2359c4adfa",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "ec3d4425-3f04-58da-b6f6-5083d7da1a56",
+    "type": "formula",
+    "key": "formula:41d2d7d267e9",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution The function f is one-one, for f (x1) = f (x2) => 2x1 = 2x2 => x1 = x2. Further,",
+    "normalizedText": "solution the function f is one-one, for f (x1) = f (x2) => 2x1 = 2x2 => x1 = x2. further,",
+    "pageStart": 8,
+    "pageEnd": 8,
+    "sequenceIndex": 88,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 8,
+      "pageEnd": 8,
+      "span": {
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "41d2d7d267e9",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "355f940a-16df-526e-b645-3b907c0c7b93",
+    "type": "formula",
+    "key": "formula:e376212fb852",
+    "title": "Formula / symbolic statement",
+    "bodyText": "f is not onto, as for 1 in N, there does not exist any x in N such that f (x) = 2x = 1.",
+    "normalizedText": "f is not onto, as for 1 in n, there does not exist any x in n such that f (x) = 2x = 1.",
+    "pageStart": 8,
+    "pageEnd": 8,
+    "sequenceIndex": 89,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 8,
+      "pageEnd": 8,
+      "span": {
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "e376212fb852",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "b428537f-5132-5f3b-9409-957e797018a8",
+    "type": "formula",
+    "key": "formula:70e9b98ea258",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution f is one-one, as f (x1) = f (x2) => 2x1 = 2x2 => x1 = x2. Also, given any real",
+    "normalizedText": "solution f is one-one, as f (x1) = f (x2) => 2x1 = 2x2 => x1 = x2. also, given any real",
+    "pageStart": 9,
+    "pageEnd": 9,
+    "sequenceIndex": 90,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 9,
+      "pageEnd": 9,
+      "span": {
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "70e9b98ea258",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "1c46f665-fe40-5b4b-b034-18e57a286aa9",
+    "type": "formula",
+    "key": "formula:dfd1b2705089",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution f is not one-one, as f (1) = f (2) = 1. But f is onto, as given any y in N, y ≠ 1,",
+    "normalizedText": "solution f is not one-one, as f (1) = f (2) = 1. but f is onto, as given any y in n, y ≠ 1,",
+    "pageStart": 9,
+    "pageEnd": 9,
+    "sequenceIndex": 91,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 9,
+      "pageEnd": 9,
+      "span": {
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "dfd1b2705089",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "42232a1d-107f-53e4-942a-04782f753e4e",
+    "type": "formula",
+    "key": "formula:e4f90bb4d3b4",
+    "title": "Formula / symbolic statement",
+    "bodyText": "we can choose x as y + 1 such that f (y + 1) = y + 1 - 1 = y. Also for 1 in N, we",
+    "normalizedText": "we can choose x as y + 1 such that f (y + 1) = y + 1 - 1 = y. also for 1 in n, we",
+    "pageStart": 9,
+    "pageEnd": 9,
+    "sequenceIndex": 92,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 9,
+      "pageEnd": 9,
+      "span": {
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "e4f90bb4d3b4",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "d51b90a0-c86c-5f8a-92dd-67ddb83f2cd0",
+    "type": "formula",
+    "key": "formula:6b744378b542",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution Since f (- 1) = 1 =",
+    "normalizedText": "solution since f (- 1) = 1 =",
+    "pageStart": 9,
+    "pageEnd": 9,
+    "sequenceIndex": 93,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 9,
+      "pageEnd": 9,
+      "span": {
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6b744378b542",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "2da5dfd3-4f41-562c-801f-53777b8f3b59",
+    "type": "formula",
+    "key": "formula:5fc4caf71a19",
+    "title": "Formula / symbolic statement",
+    "bodyText": "x1 + 1 = x2 - 1, i.e., x2 - x1 = 2 which is impossible. Similarly, the possibility of x1 being",
+    "normalizedText": "x1 + 1 = x2 - 1, i.e., x2 - x1 = 2 which is impossible. similarly, the possibility of x1 being",
+    "pageStart": 10,
+    "pageEnd": 10,
+    "sequenceIndex": 94,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 10,
+      "pageEnd": 10,
+      "span": {
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "5fc4caf71a19",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "bee2b8ff-021a-537b-9588-a7eb0c88801f",
+    "type": "formula",
+    "key": "formula:e97b4890edbc",
+    "title": "Formula / symbolic statement",
+    "bodyText": "f (x1) = f (x2) =>",
+    "normalizedText": "f (x1) = f (x2) =>",
+    "pageStart": 10,
+    "pageEnd": 10,
+    "sequenceIndex": 95,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 10,
+      "pageEnd": 10,
+      "span": {
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "e97b4890edbc",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "39767507-93b6-5a00-b53a-1e1196735958",
+    "type": "formula",
+    "key": "formula:6dcaa61aa522",
+    "title": "Formula / symbolic statement",
+    "bodyText": "x1 + 1 = x2 + 1 => x1 = x2. Similarly, if both x1 and x2 are even, then also",
+    "normalizedText": "x1 + 1 = x2 + 1 => x1 = x2. similarly, if both x1 and x2 are even, then also",
+    "pageStart": 10,
+    "pageEnd": 10,
+    "sequenceIndex": 96,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 10,
+      "pageEnd": 10,
+      "span": {
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6dcaa61aa522",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "38814e78-960c-5cac-bef0-ac4ab5373640",
+    "type": "formula",
+    "key": "formula:709ae29574a3",
+    "title": "Formula / symbolic statement",
+    "bodyText": "f (x1) = f (x2) => x1 - 1 = x2 - 1 => x1 = x2. Thus, f is one-one. Also, any odd number",
+    "normalizedText": "f (x1) = f (x2) => x1 - 1 = x2 - 1 => x1 = x2. thus, f is one-one. also, any odd number",
+    "pageStart": 10,
+    "pageEnd": 10,
+    "sequenceIndex": 97,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 10,
+      "pageEnd": 10,
+      "span": {
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "709ae29574a3",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "33058d7e-9eec-58f6-ab08-6c14be28ac96",
+    "type": "formula",
+    "key": "formula:4f3093d4d400",
+    "title": "Formula / symbolic statement",
+    "bodyText": "co-domain {1, 2, 3}, showing that f is not onto, a contradiction. Hence, f must be one-one.",
+    "normalizedText": "co-domain {1, 2, 3}, showing that f is not onto, a contradiction. hence, f must be one-one.",
+    "pageStart": 10,
+    "pageEnd": 10,
+    "sequenceIndex": 98,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 10,
+      "pageEnd": 10,
+      "span": {
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "4f3093d4d400",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "82bceb01-b325-517c-9322-3f06baf828f2",
+    "type": "formula",
+    "key": "formula:a37cde5fe1b6",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution Since f is one-one, three elements of {1, 2, 3} must be taken to 3 different",
+    "normalizedText": "solution since f is one-one, three elements of {1, 2, 3} must be taken to 3 different",
+    "pageStart": 10,
+    "pageEnd": 10,
+    "sequenceIndex": 99,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 10,
+      "pageEnd": 10,
+      "span": {
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "a37cde5fe1b6",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "fbbf1c23-a913-53ba-bc7f-ca6abef0804d",
+    "type": "formula",
+    "key": "formula:175f9226c760",
+    "title": "Formula / symbolic statement",
+    "bodyText": "elements of the co-domain {1, 2, 3} under f. Hence, f has to be onto.",
+    "normalizedText": "elements of the co-domain {1, 2, 3} under f. hence, f has to be onto.",
+    "pageStart": 10,
+    "pageEnd": 10,
+    "sequenceIndex": 100,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 10,
+      "pageEnd": 10,
+      "span": {
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "175f9226c760",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f20a701f-1b18-5e31-87ca-3e96ab0e4b99",
+    "type": "formula",
+    "key": "formula:711903e05681",
+    "title": "Formula / symbolic statement",
+    "bodyText": "6. Let A = {1, 2, 3}, B = {4, 5, 6, 7} and let f = {(1, 4), (2, 5), (3, 6)} be a function",
+    "normalizedText": "6. let a = {1, 2, 3}, b = {4, 5, 6, 7} and let f = {(1, 4), (2, 5), (3, 6)} be a function",
+    "pageStart": 11,
+    "pageEnd": 11,
+    "sequenceIndex": 101,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 11,
+      "pageEnd": 11,
+      "span": {
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "711903e05681",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "0a43fc59-84c6-5fee-8490-0ce2f8a77a2d",
+    "type": "formula",
+    "key": "formula:f9409a112c7e",
+    "title": "Formula / symbolic statement",
+    "bodyText": "8. Let A and B be sets. Show that f : A x B -> B x A such that f (a, b) = (b, a) is",
+    "normalizedText": "8. let a and b be sets. show that f : a x b -> b x a such that f (a, b) = (b, a) is",
+    "pageStart": 11,
+    "pageEnd": 11,
+    "sequenceIndex": 102,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 11,
+      "pageEnd": 11,
+      "span": {
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "f9409a112c7e",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "659a7a54-bdbe-50cf-9413-dae26262a86d",
+    "type": "formula",
+    "key": "formula:872765b207ec",
+    "title": "Formula / symbolic statement",
+    "bodyText": "10. Let A = R - {3} and B = R - {1}. Consider the function f : A -> B defined by",
+    "normalizedText": "10. let a = r - {3} and b = r - {1}. consider the function f : a -> b defined by",
+    "pageStart": 11,
+    "pageEnd": 11,
+    "sequenceIndex": 103,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 11,
+      "pageEnd": 11,
+      "span": {
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "872765b207ec",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "38129a43-e0a9-5ab0-b8fa-f1c50abfb9f7",
+    "type": "formula",
+    "key": "formula:2a76de7bc08d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "gof (x) = g(f (x)), ∀ x in A.",
+    "normalizedText": "gof (x) = g(f (x)), ∀ x in a.",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 104,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "2a76de7bc08d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "2cc6fce3-aba8-572c-9827-0815f7618fe8",
+    "type": "formula",
+    "key": "formula:d0bdbab7ee34",
+    "title": "Formula / symbolic statement",
+    "bodyText": "functions defined as f (2) = 3, f (3) = 4, f (4) = f (5) = 5 and g (3) = g (4) = 7 and",
+    "normalizedText": "functions defined as f (2) = 3, f (3) = 4, f (4) = f (5) = 5 and g (3) = g (4) = 7 and",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 105,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "d0bdbab7ee34",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "86a49ac7-0ff6-5503-8cf6-0fbe1d18b7c8",
+    "type": "formula",
+    "key": "formula:6cd14438e2a6",
+    "title": "Formula / symbolic statement",
+    "bodyText": "g (5) = g (9) = 11. Find gof.",
+    "normalizedText": "g (5) = g (9) = 11. find gof.",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 106,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6cd14438e2a6",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "7ee3e733-de88-5960-8108-c3087e3d27c0",
+    "type": "formula",
+    "key": "formula:3c8c8fff5012",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution We have gof (2) = g (f (2)) = g (3) = 7, gof (3) = g (f (3)) = g (4) = 7,",
+    "normalizedText": "solution we have gof (2) = g (f (2)) = g (3) = 7, gof (3) = g (f (3)) = g (4) = 7,",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 107,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "3c8c8fff5012",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "b13e8b0b-6a06-5108-8318-3f44088edfee",
+    "type": "formula",
+    "key": "formula:a7351a20d45d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "gof (4) = g (f (4)) = g (5) = 11 and gof (5) = g (5) = 11.",
+    "normalizedText": "gof (4) = g (f (4)) = g (5) = 11 and gof (5) = g (5) = 11.",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 108,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "a7351a20d45d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "eceb6244-0458-571a-833e-ca10e3c06db0",
+    "type": "formula",
+    "key": "formula:928ce2607a63",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution We have gof (x) = g (f (x)) = g (cos x) = 3 (cos x)2 = 3 cos 2 x. Similarly,",
+    "normalizedText": "solution we have gof (x) = g (f (x)) = g (cos x) = 3 (cos x)2 = 3 cos 2 x. similarly,",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 109,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "928ce2607a63",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "412ff689-5e39-56b2-b31b-6950b610c7ee",
+    "type": "formula",
+    "key": "formula:ed897ce493ab",
+    "title": "Formula / symbolic statement",
+    "bodyText": "fog(x) = f (g (x)) = f (3x2) = cos (3x2). Note that 3cos 2 x ≠ cos 3x2, for x = 0. Hence,",
+    "normalizedText": "fog(x) = f (g (x)) = f (3x2) = cos (3x2). note that 3cos 2 x ≠ cos 3x2, for x = 0. hence,",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 110,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "ed897ce493ab",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "12179519-1ac9-5149-8982-af60a9e7ae35",
+    "type": "formula",
+    "key": "formula:cea044871d02",
+    "title": "Formula / symbolic statement",
+    "bodyText": "g : Y -> X such that gof = IX and fog = IY. The function g is called the inverse of f and",
+    "normalizedText": "g : y -> x such that gof = ix and fog = iy. the function g is called the inverse of f and",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 111,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "cea044871d02",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "5aff707c-37e4-511c-9176-00ccdcf404ea",
+    "type": "formula",
+    "key": "formula:560985ce3356",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Y = {y in N: y = 4x + 3 for some x in N}. Show that f is invertible. Find the inverse.",
+    "normalizedText": "y = {y in n: y = 4x + 3 for some x in n}. show that f is invertible. find the inverse.",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 112,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "560985ce3356",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "e02abb0b-321f-5aa5-9bf8-fca074adbeef",
+    "type": "formula",
+    "key": "formula:f3dc9157a2c5",
+    "title": "Formula / symbolic statement",
+    "bodyText": "yg y -= . Now, gof (x) = g (f (x)) = g (4x + 3) = (4 3 3)",
+    "normalizedText": "yg y -= . now, gof (x) = g (f (x)) = g (4x + 3) = (4 3 3)",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 113,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "f3dc9157a2c5",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "416ad6d0-365b-5ce6-ad31-60454c85d8cd",
+    "type": "formula",
+    "key": "formula:cd7a0a25eb41",
+    "title": "Formula / symbolic statement",
+    "bodyText": "fog (y) = f (g (y)) = f ( 3) 4 ( 3) 34 4",
+    "normalizedText": "fog (y) = f (g (y)) = f ( 3) 4 ( 3) 34 4",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 114,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "cd7a0a25eb41",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "823814fa-7a33-54e5-85de-e6fac1ff2961",
+    "type": "formula",
+    "key": "formula:61eb6ede3a46",
+    "title": "Formula / symbolic statement",
+    "bodyText": "y y- -  = +   = y - 3 + 3 = y. This shows that gof = IN",
+    "normalizedText": "y y- -  = +   = y - 3 + 3 = y. this shows that gof = in",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 115,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "61eb6ede3a46",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "e15715cc-8c37-53cc-99f4-d5239244930c",
+    "type": "formula",
+    "key": "formula:1fb99f21f08c",
+    "title": "Formula / symbolic statement",
+    "bodyText": "and R2 are equivalence relations, (a, a) in R1, and (a, a) in R2 ∀ a in A.",
+    "normalizedText": "and r2 are equivalence relations, (a, a) in r1, and (a, a) in r2 ∀ a in a.",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 116,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1fb99f21f08c",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "34defe3a-dc11-5181-be79-a15a5c81dbe3",
+    "type": "formula",
+    "key": "formula:dbcb54210586",
+    "title": "Formula / symbolic statement",
+    "bodyText": "This implies that (a, a) in R1 intersection R2, ∀ a, showing R 1 intersection R2 is reflexive. Further ,",
+    "normalizedText": "this implies that (a, a) in r1 intersection r2, ∀ a, showing r 1 intersection r2 is reflexive. further ,",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 117,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "dbcb54210586",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "22901830-62ab-51dd-a917-e2c55c0630de",
+    "type": "formula",
+    "key": "formula:345c360a07de",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(a, b) in R1 intersection R2 => (a, b) in R1 and (a, b) in R2 => (b, a) in R1 and (b, a) in R2 =>",
+    "normalizedText": "(a, b) in r1 intersection r2 => (a, b) in r1 and (a, b) in r2 => (b, a) in r1 and (b, a) in r2 =>",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 118,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "345c360a07de",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "c8bf2170-62fa-518b-8028-a150a3ee76c3",
+    "type": "formula",
+    "key": "formula:1cef3af3ff17",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(b, a) in R 1 intersection R 2, hence, R1 intersection R2 is symmetric. Similarly , ( a, b) in R 1 intersection R 2 and",
+    "normalizedText": "(b, a) in r 1 intersection r 2, hence, r1 intersection r2 is symmetric. similarly , ( a, b) in r 1 intersection r 2 and",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 119,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1cef3af3ff17",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "4e2c765d-1421-5214-88fa-1fe676c15fa5",
+    "type": "formula",
+    "key": "formula:fb021667f345",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(b, c) in R1 intersection R2 => (a, c) in R1 and (a, c) in R2 =>",
+    "normalizedText": "(b, c) in r1 intersection r2 => (a, c) in r1 and (a, c) in r2 =>",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 120,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "fb021667f345",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f7267c3f-5440-57e3-bf9a-323ecdbc73f6",
+    "type": "formula",
+    "key": "formula:5626e2036002",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(a, c) in R1 intersection R2. This shows that",
+    "normalizedText": "(a, c) in r1 intersection r2. this shows that",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 121,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "5626e2036002",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "a9622297-cc54-58a2-83a7-2a1e1e7b46fd",
+    "type": "formula",
+    "key": "formula:666dfa42fa82",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R1 intersection R2 is transitive. Thus, R1 intersection R2 is an equivalence relation.",
+    "normalizedText": "r1 intersection r2 is transitive. thus, r1 intersection r2 is an equivalence relation.",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 122,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "666dfa42fa82",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f5a30baa-c45b-5385-aaeb-5232a19746cc",
+    "type": "formula",
+    "key": "formula:898e0aae17e0",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution Clearly, (x, y) R ( x, y), ∀ (x, y) in A, since xy = yx. This shows that R is",
+    "normalizedText": "solution clearly, (x, y) r ( x, y), ∀ (x, y) in a, since xy = yx. this shows that r is",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 123,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "898e0aae17e0",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "95509431-4f73-5761-a3df-05fcb64f7795",
+    "type": "formula",
+    "key": "formula:7231f404578d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "reflexive. Further, (x, y) R (u, v) => xv = yu => uy = vx and hence (u, v) R (x, y). This",
+    "normalizedText": "reflexive. further, (x, y) r (u, v) => xv = yu => uy = vx and hence (u, v) r (x, y). this",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 124,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "7231f404578d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "3729b75e-3f9f-545a-80d3-831ce8abcde1",
+    "type": "formula",
+    "key": "formula:462fbd99c80c",
+    "title": "Formula / symbolic statement",
+    "bodyText": "shows that R is symmetric. Similarly, (x, y) R (u, v) and (u, v) R (a, b) => xv = yu and",
+    "normalizedText": "shows that r is symmetric. similarly, (x, y) r (u, v) and (u, v) r (a, b) => xv = yu and",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 125,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "462fbd99c80c",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "7acde6fa-f377-5f3b-b67c-cc6f9404c8ec",
+    "type": "formula",
+    "key": "formula:308b33cca8ee",
+    "title": "Formula / symbolic statement",
+    "bodyText": "ub = va => a axv yuu u= => b axv yuv u= => xb = ya and hence (x, y) R (a, b). Thus, R",
+    "normalizedText": "ub = va => a axv yuu u= => b axv yuv u= => xb = ya and hence (x, y) r (a, b). thus, r",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 126,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "308b33cca8ee",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "0c93c167-2ccd-5cd2-8ff1-ea16ff91dee5",
+    "type": "formula",
+    "key": "formula:30ae4fd9e51b",
+    "title": "Formula / symbolic statement",
+    "bodyText": "by R1 = {( x, y) : x - y is divisible by 3} and R 2 be another relation on X given by",
+    "normalizedText": "by r1 = {( x, y) : x - y is divisible by 3} and r 2 be another relation on x given by",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 127,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "30ae4fd9e51b",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "18eb6897-ef4b-5f81-9a6a-21ff4d9a35e0",
+    "type": "formula",
+    "key": "formula:750a2b179e38",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R2 = {(x, y): {x, y} subset {1, 4, 7}} or {x, y} subset {2, 5, 8} or {x, y} subset {3, 6, 9}}. Show that",
+    "normalizedText": "r2 = {(x, y): {x, y} subset {1, 4, 7}} or {x, y} subset {2, 5, 8} or {x, y} subset {3, 6, 9}}. show that",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 128,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "750a2b179e38",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "4ae63f0d-32a0-54e9-bf95-f412493995d6",
+    "type": "formula",
+    "key": "formula:d0976dad84d3",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution Note that the characteristic of sets {1, 4, 7}, {2, 5, 8} and {3, 6, 9} is",
+    "normalizedText": "solution note that the characteristic of sets {1, 4, 7}, {2, 5, 8} and {3, 6, 9} is",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 129,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "d0976dad84d3",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "3fdf551f-fb09-5d52-b4a8-b78e055f3a79",
+    "type": "formula",
+    "key": "formula:f23c214ab37a",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(x, y) in R 1 => x - y is a multiple of 3 => {x, y} subset {1, 4, 7} or { x, y} subset {2, 5, 8}",
+    "normalizedText": "(x, y) in r 1 => x - y is a multiple of 3 => {x, y} subset {1, 4, 7} or { x, y} subset {2, 5, 8}",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 130,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "f23c214ab37a",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "c86f3173-ce54-5b3c-819d-48457bc8b40d",
+    "type": "formula",
+    "key": "formula:1cc79b06f23a",
+    "title": "Formula / symbolic statement",
+    "bodyText": "or {x, y} subset {3, 6, 9} => (x, y) in R2. Hence, R1 subset R2. Similarly, {x, y} in R2 => {x, y}",
+    "normalizedText": "or {x, y} subset {3, 6, 9} => (x, y) in r2. hence, r1 subset r2. similarly, {x, y} in r2 => {x, y}",
+    "pageStart": 13,
+    "pageEnd": 13,
+    "sequenceIndex": 131,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 13,
+      "pageEnd": 13,
+      "span": {
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1cc79b06f23a",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "8be7fb38-b7d9-5dc5-81e5-02075c34e81e",
+    "type": "formula",
+    "key": "formula:92bd2e85b81d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "subset {1, 4, 7} or { x, y} subset {2, 5, 8} or { x, y} subset {3, 6, 9} => x - y is divisible by",
+    "normalizedText": "subset {1, 4, 7} or { x, y} subset {2, 5, 8} or { x, y} subset {3, 6, 9} => x - y is divisible by",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 132,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "92bd2e85b81d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "34738f71-a313-5143-a1ee-974fa65bbe0e",
+    "type": "formula",
+    "key": "formula:d2799a2ad198",
+    "title": "Formula / symbolic statement",
+    "bodyText": "3 => {x, y} in R1. This shows that R 2 subset R1. Hence, R 1 = R 2.",
+    "normalizedText": "3 => {x, y} in r1. this shows that r 2 subset r1. hence, r 1 = r 2.",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 133,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "d2799a2ad198",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "34aedaa8-353f-5555-9484-ccb19cec0ada",
+    "type": "formula",
+    "key": "formula:4d9d9152f62f",
+    "title": "Formula / symbolic statement",
+    "bodyText": "R = {(a, b): f(a) = f(b)}. Examine whether R is an equivalence relation or not.",
+    "normalizedText": "r = {(a, b): f(a) = f(b)}. examine whether r is an equivalence relation or not.",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 134,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "4d9d9152f62f",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f93c64e4-b85a-5148-9fc5-7ad187b7bccd",
+    "type": "formula",
+    "key": "formula:99cde235c285",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Solution For every a in X, (a, a) in R, since f (a) = f (a), showing that R is reflexive.",
+    "normalizedText": "solution for every a in x, (a, a) in r, since f (a) = f (a), showing that r is reflexive.",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 135,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "99cde235c285",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "a93bd0ef-8a14-533d-b609-1a4d30f32a3d",
+    "type": "formula",
+    "key": "formula:1c2ce55f0359",
+    "title": "Formula / symbolic statement",
+    "bodyText": "Similarly, (a, b) in R => f (a) = f (b) => f (b) = f (a) => (b, a) in R. Therefore, R is",
+    "normalizedText": "similarly, (a, b) in r => f (a) = f (b) => f (b) = f (a) => (b, a) in r. therefore, r is",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 136,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1c2ce55f0359",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "8884f0a2-8911-54c8-9318-bec3ec53b906",
+    "type": "formula",
+    "key": "formula:2341d93ccd5d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "symmetric. Further, (a, b) in R and (b, c) in R => f (a) = f (b) and f (b) = f (c) => f (a)",
+    "normalizedText": "symmetric. further, (a, b) in r and (b, c) in r => f (a) = f (b) and f (b) = f (c) => f (a)",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 137,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "2341d93ccd5d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "620b4ee3-f1da-5b23-80c9-9b4cbeb1cfc0",
+    "type": "formula",
+    "key": "formula:26ba3779a772",
+    "title": "Formula / symbolic statement",
+    "bodyText": "= f (c) => (a, c) in R, which implies that R is transitive. Hence, R is an equivalence",
+    "normalizedText": "= f (c) => (a, c) in r, which implies that r is transitive. hence, r is an equivalence",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 138,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "26ba3779a772",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "b669cbd1-9620-5bf6-8ee8-3d74cc28cb98",
+    "type": "formula",
+    "key": "formula:9cfc593cbecd",
+    "title": "Formula / symbolic statement",
+    "bodyText": "One-one function from {1, 2, 3} to itself is simply a permutation on three",
+    "normalizedText": "one-one function from {1, 2, 3} to itself is simply a permutation on three",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 139,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "9cfc593cbecd",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "9ace7ea0-beac-5b49-ab66-1392a03d2f8a",
+    "type": "formula",
+    "key": "formula:8f7d67a9cbcb",
+    "title": "Formula / symbolic statement",
+    "bodyText": "symbols 1, 2, 3. Therefore, total number of one-one maps from {1, 2, 3} to itself is",
+    "normalizedText": "symbols 1, 2, 3. therefore, total number of one-one maps from {1, 2, 3} to itself is",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 140,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "8f7d67a9cbcb",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "87ab6c41-5c82-52af-b30c-168bfe4c70bb",
+    "type": "formula",
+    "key": "formula:de32f30a00ef",
+    "title": "Formula / symbolic statement",
+    "bodyText": "transitive but not symmetric is {(1, 1), (2, 2), (3, 3), (1, 2), (2, 3), (1, 3)}. Now, if we add",
+    "normalizedText": "transitive but not symmetric is {(1, 1), (2, 2), (3, 3), (1, 2), (2, 3), (1, 3)}. now, if we add",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 141,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "de32f30a00ef",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "425e63da-4c41-5eb7-99da-53a6ee90d042",
+    "type": "formula",
+    "key": "formula:df26cadd8447",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(IN + IN) (x) = I N (x) + I N (x) = x + x = 2x is not onto.",
+    "normalizedText": "(in + in) (x) = i n (x) + i n (x) = x + x = 2x is not onto.",
+    "pageStart": 14,
+    "pageEnd": 14,
+    "sequenceIndex": 142,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 14,
+      "pageEnd": 14,
+      "span": {
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "df26cadd8447",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "b1c679fa-ddcf-5bc0-8ed6-b7a04fdfb2f3",
+    "type": "formula",
+    "key": "formula:9edc428ade4d",
+    "title": "Formula / symbolic statement",
+    "bodyText": "(IN + I N) (x) = 2x = 3.",
+    "normalizedText": "(in + i n) (x) = 2x = 3.",
+    "pageStart": 15,
+    "pageEnd": 15,
+    "sequenceIndex": 143,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 15,
+      "pageEnd": 15,
+      "span": {
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "9edc428ade4d",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "445361c5-a950-5524-acd7-468c59d9cc8d",
+    "type": "formula",
+    "key": "formula:8a27030628bc",
+    "title": "Formula / symbolic statement",
+    "bodyText": "cos x1 ≠ cos x2, both f and g must be one-one. But (f + g) (0) = sin 0 + cos 0 = 1 and",
+    "normalizedText": "cos x1 ≠ cos x2, both f and g must be one-one. but (f + g) (0) = sin 0 + cos 0 = 1 and",
+    "pageStart": 15,
+    "pageEnd": 15,
+    "sequenceIndex": 144,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 15,
+      "pageEnd": 15,
+      "span": {
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "8a27030628bc",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "b9941922-fc4d-5bd4-81c3-80fd757aa343",
+    "type": "formula",
+    "key": "formula:f2029f55645b",
+    "title": "Formula / symbolic statement",
+    "bodyText": "1. Show that the function f : R -> {x in R : - 1 < x < 1} defined by ( ) 1 | |",
+    "normalizedText": "1. show that the function f : r -> {x in r : - 1 < x < 1} defined by ( ) 1 | |",
+    "pageStart": 15,
+    "pageEnd": 15,
+    "sequenceIndex": 145,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 15,
+      "pageEnd": 15,
+      "span": {
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "f2029f55645b",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "c5ee48a6-a4dd-562d-8935-f3e165e12b67",
+    "type": "formula",
+    "key": "formula:1adbbf58eb73",
+    "title": "Formula / symbolic statement",
+    "bodyText": "4. Find the number of all onto functions from the set {1, 2, 3,......, n} to itself.",
+    "normalizedText": "4. find the number of all onto functions from the set {1, 2, 3,......, n} to itself.",
+    "pageStart": 15,
+    "pageEnd": 15,
+    "sequenceIndex": 146,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 15,
+      "pageEnd": 15,
+      "span": {
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "1adbbf58eb73",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "0307152a-9453-523f-b252-3a4b73df4096",
+    "type": "formula",
+    "key": "formula:6b9c0ec7c836",
+    "title": "Formula / symbolic statement",
+    "bodyText": "5. Let A = {- 1, 0, 1, 2}, B = {- 4, - 2, 0, 2} and f, g : A -> B be functions defined",
+    "normalizedText": "5. let a = {- 1, 0, 1, 2}, b = {- 4, - 2, 0, 2} and f, g : a -> b be functions defined",
+    "pageStart": 15,
+    "pageEnd": 15,
+    "sequenceIndex": 147,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 15,
+      "pageEnd": 15,
+      "span": {
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6b9c0ec7c836",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f70b942d-bf0b-56f4-85cb-52bfdef3107a",
+    "type": "formula",
+    "key": "formula:c1a91ddb9bc3",
+    "title": "Formula / symbolic statement",
+    "bodyText": "by f (x) = x2 - x, x in A and 1( ) 2 1, 2g x x = - - x in A. Are f and g equal?",
+    "normalizedText": "by f (x) = x2 - x, x in a and 1( ) 2 1, 2g x x = - - x in a. are f and g equal?",
+    "pageStart": 15,
+    "pageEnd": 15,
+    "sequenceIndex": 148,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 15,
+      "pageEnd": 15,
+      "span": {
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "c1a91ddb9bc3",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "f7db7492-6ed0-5b12-a0e7-63e5d18e0277",
+    "type": "formula",
+    "key": "formula:e57efc818455",
+    "title": "Formula / symbolic statement",
+    "bodyText": "g : A -> B such that f (a) = g(a) ∀ a in A, are called equal functions).",
+    "normalizedText": "g : a -> b such that f (a) = g(a) ∀ a in a, are called equal functions).",
+    "pageStart": 15,
+    "pageEnd": 15,
+    "sequenceIndex": 149,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 15,
+      "pageEnd": 15,
+      "span": {
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "e57efc818455",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "602420ef-ed19-5ab2-88df-1b25c8980659",
+    "type": "formula",
+    "key": "formula:021d264222e6",
+    "title": "Formula / symbolic statement",
+    "bodyText": "6. Let A = {1, 2, 3}. Then number of relations containing (1, 2) and (1, 3) which are",
+    "normalizedText": "6. let a = {1, 2, 3}. then number of relations containing (1, 2) and (1, 3) which are",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 150,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "021d264222e6",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "d7b86f06-32a4-560b-949e-be0ccb4a25ac",
+    "type": "formula",
+    "key": "formula:2d85cb6d5a73",
+    "title": "Formula / symbolic statement",
+    "bodyText": "7. Let A = {1, 2, 3}. Then number of equivalence relations containing (1, 2) is",
+    "normalizedText": "7. let a = {1, 2, 3}. then number of equivalence relations containing (1, 2) is",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 151,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "2d85cb6d5a73",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "288220ab-a8c5-5e5e-a7e2-29d85b478b66",
+    "type": "formula",
+    "key": "formula:140c34e9be62",
+    "title": "Formula / symbolic statement",
+    "bodyText": "® Empty relation is the relation R in X given by R = phi subset X x X.",
+    "normalizedText": "® empty relation is the relation r in x given by r = phi subset x x x.",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 152,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "140c34e9be62",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "3defd6dd-dca6-533a-b0e3-d40adb68ff69",
+    "type": "formula",
+    "key": "formula:6febf5a1420b",
+    "title": "Formula / symbolic statement",
+    "bodyText": "® Universal relation is the relation R in X given by R = X x X.",
+    "normalizedText": "® universal relation is the relation r in x given by r = x x x.",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 153,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6febf5a1420b",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "bdf0a901-e2ba-568e-99c8-1ccda01e6a33",
+    "type": "formula",
+    "key": "formula:dfec428a51e7",
+    "title": "Formula / symbolic statement",
+    "bodyText": "® Reflexive relation R in X is a relation with ( a, a) in R ∀ a in X.",
+    "normalizedText": "® reflexive relation r in x is a relation with ( a, a) in r ∀ a in x.",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 154,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "dfec428a51e7",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "03f40f8a-5187-5fbf-822c-aa6a33af2e7f",
+    "type": "formula",
+    "key": "formula:675b225818ca",
+    "title": "Formula / symbolic statement",
+    "bodyText": "® Symmetric relation R in X is a relation satisfying (a, b) in R implies (b, a) in R.",
+    "normalizedText": "® symmetric relation r in x is a relation satisfying (a, b) in r implies (b, a) in r.",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 155,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "675b225818ca",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "d56f2419-9d1d-57b8-ab4e-008b597cd1c0",
+    "type": "formula",
+    "key": "formula:6b92e10e6103",
+    "title": "Formula / symbolic statement",
+    "bodyText": "® Transitive relation R in X is a relation satisfying ( a, b) in R and (b, c) in R",
+    "normalizedText": "® transitive relation r in x is a relation satisfying ( a, b) in r and (b, c) in r",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 156,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "6b92e10e6103",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  },
+  {
+    "id": "50fcb57e-34a2-58ee-b219-0718e428cdad",
+    "type": "formula",
+    "key": "formula:fb5900558491",
+    "title": "Formula / symbolic statement",
+    "bodyText": "f (x1) = f (x2) => x1 = x2 ∀ x1, x2 in X.",
+    "normalizedText": "f (x1) = f (x2) => x1 = x2 ∀ x1, x2 in x.",
+    "pageStart": 16,
+    "pageEnd": 16,
+    "sequenceIndex": 157,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": null,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 16,
+      "pageEnd": 16,
+      "span": {
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "formula_fingerprint": "fb5900558491",
+      "extraction_method": "symbol_regex"
+    },
+    "confidence": 0.68,
+    "status": "extracted"
+  }
+]

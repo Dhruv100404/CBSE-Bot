@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className={`${bodyFont.variable} ${displayFont.variable} bg-bg text-ink`}>
+      <body suppressHydrationWarning className={`${bodyFont.variable} ${displayFont.variable} bg-bg text-ink`}>
         <AuthProvider>{children}</AuthProvider>
       </body>
     </html>

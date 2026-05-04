@@ -70,14 +70,13 @@ importers:
   packages/types: {}
 
   packages/ui:
-    dependencies:
-      react:
-        specifier: ^19.0.0
-        version: 19.2.5
     devDependencies:
       '@types/react':
         specifier: ^19.1.2
         version: 19.2.14
+      react:
+        specifier: ^19.0.0
+        version: 19.2.5
 
 packages:
 

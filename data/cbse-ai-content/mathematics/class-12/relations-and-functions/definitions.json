@@ -1,0 +1,344 @@
+[
+  {
+    "id": "eaff76ea-db8a-5363-bf2d-b6fce5258a4d",
+    "type": "definition",
+    "key": "definition:1",
+    "title": "Definition 1",
+    "bodyText": "Definition 1 A relation R in a set A is called empty relation, if no element of A is\nrelated to any element of A, i.e., R = phi subset A x A.",
+    "normalizedText": "definition 1 a relation r in a set a is called empty relation, if no element of a is related to any element of a, i.e., r = phi subset a x a.",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 1,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 1,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "1"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "58d93e9a-038d-51f9-beed-027b80a977d3",
+    "type": "definition",
+    "key": "definition:2",
+    "title": "Definition 2",
+    "bodyText": "Definition 2 A relation R in a set A is called universal relation, if each element of A\nis related to every element of A, i.e., R = A x A.\nBoth the empty relation and the universal relation are some times called trivial\nrelations .",
+    "normalizedText": "definition 2 a relation r in a set a is called universal relation, if each element of a is related to every element of a, i.e., r = a x a. both the empty relation and the universal relation are some times called trivial relations .",
+    "pageStart": 2,
+    "pageEnd": 2,
+    "sequenceIndex": 2,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 2,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 2,
+      "span": {
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "2"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "4949338b-c156-5ea3-8b52-7ea1bc124df9",
+    "type": "definition",
+    "key": "definition:3",
+    "title": "Definition 3",
+    "bodyText": "Definition 3 A relation R in a set A is called\n(i) reflexive, if (a, a) in R, for every a in A,\n(ii) symmetric, if (a1, a2) in R implies that (a2, a1) in R, for all a1, a2 in A.\n(iii) transitive, if (a1, a2) in R and (a2, a3) in R implies that (a1, a3) in R, for all a1, a2,\na3 in A.\nReprint 2026-27\nRELATIONS AND FUNCTIONS 3",
+    "normalizedText": "definition 3 a relation r in a set a is called (i) reflexive, if (a, a) in r, for every a in a, (ii) symmetric, if (a1, a2) in r implies that (a2, a1) in r, for all a1, a2 in a. (iii) transitive, if (a1, a2) in r and (a2, a3) in r implies that (a1, a3) in r, for all a1, a2, a3 in a. reprint 2026-27 relations and functions 3",
+    "pageStart": 2,
+    "pageEnd": 3,
+    "sequenceIndex": 3,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 3,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 2,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 2,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "3"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "1ee92ecb-e830-5a6c-9bc4-c67a0aea2f2c",
+    "type": "definition",
+    "key": "definition:4",
+    "title": "Definition 4",
+    "bodyText": "Definition 4 A relation R in a set A is said to be an equivalence r elation if R is\nreflexive, symmetric and transitive.",
+    "normalizedText": "definition 4 a relation r in a set a is said to be an equivalence r elation if r is reflexive, symmetric and transitive.",
+    "pageStart": 3,
+    "pageEnd": 3,
+    "sequenceIndex": 4,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 4,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 3,
+      "pageEnd": 3,
+      "span": {
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "4"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "c873408b-cccc-510a-9782-7899615e4b59",
+    "type": "definition",
+    "key": "definition:5",
+    "title": "Definition 5",
+    "bodyText": "Definition 5 A function f : X -> Y is defined to be one-one (or injective), if the images\nof distinct elements of X under f are distinct, i.e., for every x1, x2 in X, f (x1) = f (x2)\nimplies x1 = x2. Otherwise, f is called many-one.\nThe function f1 and f4 in Fig 1.2 (i) and (iv) are one-one and the function f2 and f3\nin Fig 1.2 (ii) and (iii) are many-one.",
+    "normalizedText": "definition 5 a function f : x -> y is defined to be one-one (or injective), if the images of distinct elements of x under f are distinct, i.e., for every x1, x2 in x, f (x1) = f (x2) implies x1 = x2. otherwise, f is called many-one. the function f1 and f4 in fig 1.2 (i) and (iv) are one-one and the function f2 and f3 in fig 1.2 (ii) and (iii) are many-one.",
+    "pageStart": 7,
+    "pageEnd": 7,
+    "sequenceIndex": 5,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 5,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 7,
+      "pageEnd": 7,
+      "span": {
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "5"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "0295d432-af9d-573c-9883-befeaeac43e9",
+    "type": "definition",
+    "key": "definition:6",
+    "title": "Definition 6",
+    "bodyText": "Definition 6 A function f : X -> Y is said to be onto (or surjective), if every element\nof Y is the image of some element of X under f, i.e., for every y in Y, there exists an\nelement x in X such that f (x) = y.\nThe function f3 and f4 in Fig 1.2 (iii), (iv) are onto and the function f1 in Fig 1.2 (i) is\nnot onto as elements e, f in X2 are not the image of any element in X 1 under f1.\nReprint 2026-27\nMATHEMA TICS8",
+    "normalizedText": "definition 6 a function f : x -> y is said to be onto (or surjective), if every element of y is the image of some element of x under f, i.e., for every y in y, there exists an element x in x such that f (x) = y. the function f3 and f4 in fig 1.2 (iii), (iv) are onto and the function f1 in fig 1.2 (i) is not onto as elements e, f in x2 are not the image of any element in x 1 under f1. reprint 2026-27 mathema tics8",
+    "pageStart": 7,
+    "pageEnd": 8,
+    "sequenceIndex": 6,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 6,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 7,
+      "pageEnd": 8,
+      "span": {
+        "page_start": 7,
+        "page_end": 8
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "6"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "1191b7f5-b0f9-5b2c-a71f-8960804cd8b6",
+    "type": "definition",
+    "key": "definition:7",
+    "title": "Definition 7",
+    "bodyText": "Definition 7 A function f : X ->\nY is said to be one-one and onto (or bijective), if f is\nboth one-one and onto.\nThe function f4 in Fig 1.2 (iv) is one-one and onto.",
+    "normalizedText": "definition 7 a function f : x -> y is said to be one-one and onto (or bijective), if f is both one-one and onto. the function f4 in fig 1.2 (iv) is one-one and onto.",
+    "pageStart": 8,
+    "pageEnd": 8,
+    "sequenceIndex": 7,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 7,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 8,
+      "pageEnd": 8,
+      "span": {
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "7"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "adf1a632-89cb-5d78-8b7b-263a18a37b4c",
+    "type": "definition",
+    "key": "definition:8",
+    "title": "Definition 8",
+    "bodyText": "Definition 8 Let f : A -> B and g : B -> C be two functions. Then the composition of\nf and g, denoted by gof, is defined as the function gof : A\n-> C given by\ngof (x) = g(f (x)), ∀ x in A.\nFig 1.5",
+    "normalizedText": "definition 8 let f : a -> b and g : b -> c be two functions. then the composition of f and g, denoted by gof, is defined as the function gof : a -> c given by gof (x) = g(f (x)), ∀ x in a. fig 1.5",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 8,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 8,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "8"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  },
+  {
+    "id": "9d37ce85-3c77-561f-a08f-ebacc5d32026",
+    "type": "definition",
+    "key": "definition:9",
+    "title": "Definition 9",
+    "bodyText": "Definition 9 A function f : X -> Y is defined to be invertible, if there exists a function\ng : Y -> X such that gof = IX and fog = IY. The function g is called the inverse of f and\nis denoted by f -1.\nThus, if f is invertible, then f must be one-one and onto and conversely , if f is\none-one and onto, then f must be invertible. This fact significantly helps for proving a\nfunction\nf to be invertible by showing that f is one-one and onto, specially when the\nactual inverse of f is not to be determined.",
+    "normalizedText": "definition 9 a function f : x -> y is defined to be invertible, if there exists a function g : y -> x such that gof = ix and fog = iy. the function g is called the inverse of f and is denoted by f -1. thus, if f is invertible, then f must be one-one and onto and conversely , if f is one-one and onto, then f must be invertible. this fact significantly helps for proving a function f to be invertible by showing that f is one-one and onto, specially when the actual inverse of f is not to be determined.",
+    "pageStart": 12,
+    "pageEnd": 12,
+    "sequenceIndex": 9,
+    "subject": "mathematics",
+    "classLevel": 12,
+    "chapterSlug": "relations-and-functions",
+    "chapterTitle": "Relations and Functions",
+    "exerciseNumber": null,
+    "questionNumber": null,
+    "exampleNumber": null,
+    "definitionNumber": 9,
+    "sectionNumber": null,
+    "source": {
+      "document": "NCERT Mathematics Class 12",
+      "pageStart": 12,
+      "pageEnd": 12,
+      "span": {
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    "metadata": {
+      "subject": "mathematics",
+      "class_level": 12,
+      "chapter_slug": "relations-and-functions",
+      "chapter_title": "Relations and Functions",
+      "definition_number": "9"
+    },
+    "confidence": 0.86,
+    "status": "extracted"
+  }
+]
